@@ -19,4 +19,4 @@ The following table contains all of them:
 | METRICS\_SERVER\_PORT | 8081 | v0.6 | The port of the Prometheus metrics server |
 | LOG\_LEVEL | info | v0.6 | one of trace, debug, info, warn or error |
 | JVM\_OPTS | — |  | JVM options \(Docker only\) |
-
+| OPENID\_PROVIDER\_URL | — |  | OpenID Connect issuer url |
